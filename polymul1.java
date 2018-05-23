@@ -2,6 +2,8 @@ package Kattis;
 
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/polymul1
+
 public class polymul1 {
 
 	public static void main(String[] args) {
