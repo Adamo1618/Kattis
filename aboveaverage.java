@@ -3,6 +3,8 @@ package Kattis;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/aboveaverage
+
 public class aboveaverage {
 
 	public static void main(String[] args) {
