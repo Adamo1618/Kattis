@@ -2,6 +2,8 @@ package Kattis;
 
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/natrij
+
 public class natrij {
 
 	public static void main(String[] args) {
