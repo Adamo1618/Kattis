@@ -3,10 +3,10 @@ package Kattis;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/tetration
 public class Tetration {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		DecimalFormat numberFormat = new DecimalFormat("0.000000");
 		while (sc.hasNextDouble()) 
