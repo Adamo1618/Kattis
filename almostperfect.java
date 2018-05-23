@@ -1,6 +1,8 @@
 package Kattis;
 import java.util.Scanner;
 
+//https://open.kattis.com/problems/almostperfect
+
 public class almostperfect
 {
 	public static void main(String[] args)
