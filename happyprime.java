@@ -2,6 +2,8 @@ package Kattis;
 
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/happyprime
+
 public class happyprime {
 
 	public static void main(String[] args) {
