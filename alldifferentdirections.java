@@ -4,6 +4,8 @@ import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/alldifferentdirections
+
 public class alldifferentdirections {
 
 	public static void main(String[] args) {
