@@ -2,6 +2,8 @@ package Kattis;
 
 import java.util.Scanner;
 
+//Source: https://open.kattis.com/problems/guess
+
 public class guess {
 
 	public static void main(String[] args) {
